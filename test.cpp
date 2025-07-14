@@ -6,6 +6,11 @@
 #include <vector>
 using namespace std;
 
+/* 
+ This is hackerrank exercise: Bit Array 
+ https://www.hackerrank.com/challenges/bitset-1/problem?isFullScreen=false
+*/
+
 int main() {
   /* Enter your code here. Read input from STDIN. Print output to STDOUT */
   uint32_t N, S, P, Q;
